@@ -12,7 +12,7 @@
         <ul>
             <li><a href="./index.html" id="home">Home</a></li>
             <li><a href="./health_contact.html">Contact Us</a></li>
-            <li><input type="text" id="conditionInput" placeholde="Enter a health condition"></li>
+            <li><input type="text" id="conditionInput" placeholder="Enter a health condition"></li>
             <li><button id="btnSearch">Search</button></li>
         </ul>
     </nav>
@@ -33,6 +33,10 @@
                 <input type="radio" name="gender" id="female" value="Female">
             </div>
             <div>
+                <label for="age">Age:</label>
+                <input type="number" id="age">
+            </div>
+            <div>
                 <label for="condition">Condition:</label>
                 <select id="condition">
                     <option value="">Select condition</option>
@@ -47,7 +51,7 @@
             <div id="report"></div>
         </div>
         <div class="searchCondition">
-            <div class="result"></div>
+            <div id="result"></div>
         </div>
     </div>
     <script src="./script.js"></script>
