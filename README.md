@@ -1,4 +1,3 @@
-```markdown
 # Healthcare Census Application
 
 A practice project developed as part of the **IBM Full-Stack JavaScript Developer Professional Certificate** on Coursera.
