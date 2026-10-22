@@ -86,8 +86,8 @@ Upon completing this practice project, the following skills are demonstrated:
 ## Author
 
 Nimona Engida  
-[LinkedIn](https://et.linkedin.com/in/nimona-engida-79a000378)
-[GitHub](https://github.com/greattitandev)
+- [LinkedIn](https://et.linkedin.com/in/nimona-engida-79a000378)
+- [GitHub](https://github.com/greattitandev)
 
 Completed as part of the IBM Full-Stack JavaScript Developer Professional Certificate.
 
